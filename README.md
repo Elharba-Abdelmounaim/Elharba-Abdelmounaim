@@ -96,4 +96,10 @@
 
 ---
 
+## 🔝 Top Contributed Repositories
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Elharba-Abdelmounaim&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true"/>
+</p>
+
+---
