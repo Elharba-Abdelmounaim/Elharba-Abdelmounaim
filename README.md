@@ -82,9 +82,7 @@
 
 ## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Elharba-Abdelmounaim&theme=shadow_blue&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Elharba-Abdelmounaim&theme=shadow_blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elharba-Abdelmounaim&layout=compact&theme=shadow_blue)
 
 ---
 
@@ -98,5 +96,4 @@
 
 ---
 
-## 👀 Profile Views
-![Visitors](https://visitcount.itsvg.in/api?id=Elharba-Abdelmounaim&icon=5&color=2)
+
