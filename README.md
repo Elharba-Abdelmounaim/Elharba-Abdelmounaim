@@ -65,12 +65,19 @@
 ---
 
 ### 🔹 DevOps & Tools
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=flat-square&labelColor=282828)](https://www.linux.org/pages/download/) [![GNU_Bash](https://img.shields.io/badge/-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)](https://www.gnu.org/software/bash/) [![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&style=flat-square&logoColor=0078D4&labelColor=282828)](https://www.microsoft.com/es-co/windows) 
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?logo=apache&logoColor=white)
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+
+---
+### 🔹 Editors
+[![VS_Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)](https://code.visualstudio.com/) [![Vim](https://img.shields.io/badge/≡-Vim-019733?logo=Vim&style=flat-square&logoColor=019733&labelColor=282828)](https://www.vim.org/)                                                                                                         
+
+---      
 
 ---
 
@@ -80,26 +87,3 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Elharba-Abdelmounaim&theme=shadow_blue)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Elharba-Abdelmounaim&theme=shadow_blue)
-
----
-
-## ✨ Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Elharba-Abdelmounaim&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true"/>
-</p>
-
----
